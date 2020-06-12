@@ -28,6 +28,7 @@ You can view a waveform based analysis for this exact experiment [here](https://
 1. Hit the download button at the top of the github page.
 1. Extract the zip file to a USB.
 1. Insert the USB to the Presentation computer.
+1. Add montage to nirx montages folder.
 1. Plug ER2 headphones in to Fireface UCX.
 1. Double click the `.exp` file.
 1. Double click the `.tmws` file to load audio settings (check loudness before plugging participant in).
