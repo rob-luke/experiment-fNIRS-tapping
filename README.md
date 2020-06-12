@@ -11,6 +11,7 @@ Three conditions are in this experiment.
 2. A sound in the left ear that indicates the participant should tap there left thumb to each finger on the same hand.
 3. A sound in the right ear that indicates the participant should tap there right thumb to each finger on the same hand.
 
+Each condition is presented 30 times in a random order with an inter stimulus interval of 20-35 seconds.
 
 ## Instructions to participant
 
