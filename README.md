@@ -21,3 +21,14 @@ Sit in a relaxed and comfortable position. When you hear a sound in your left ea
 ## Analysis
 
 You can view a waveform based analysis for this exact experiment [here](https://mne.tools/dev/auto_tutorials/preprocessing/plot_70_fnirs_processing.html#sphx-glr-auto-tutorials-preprocessing-plot-70-fnirs-processing-py) and a GLM based analysis [here](https://mne.tools/mne-nirs/auto_examples/plot_10_hrf.html#sphx-glr-auto-examples-plot-10-hrf-py).
+
+
+## Setup
+
+1. Hit the download button at the top of the github page.
+1. Extract the zip file to a USB.
+1. Insert the USB to the Presentation computer.
+1. Plug ER2 headphones in to Fireface UCX.
+1. Double click the `.exp` file.
+1. Double click the `.tmws` file to load audio settings (check loudness before plugging participant in).
+1. Run experiment.
